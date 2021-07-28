@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirPhantomous
 - 👀 I’m interested in fishing Pc gaming and streaming
-- 🌱 I’m currently learning scripting for ourarma dayx server
+- 🌱 I’m currently learning scripting for our arma dayz server
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
